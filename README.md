@@ -1,7 +1,7 @@
 # repo-ciencia
 Repositorio ciencias
 
-##Introducción##
+## Introducción
 
 En la construcción del conocimiento científico los referentes son muy importantes. Cuando se quiere investigar sobre algún tema es de vital importancia averiguar cuánto se ha investigado sobre él, quiénes lo han hecho, dónde y cuándo, es decir, debe comprenderse que no se está solo, es en ese proceso de **crear conocimiento**, que hay personas que se han interesado y que, probablemente, algunas de ellas sepan mucho más que nosotros acerca del objeto de conocimiento. Esta búsqueda se conoce algunas veces como **revisión del estado del arte** dado que ello no constituye, en sí mismo, conocimiento científico alguno. Si se trata de validar una teoría, o al menos de verificarla, el método experimental empleado es de vital importancia, a no ser que se trate de un objeto o contenido matemático cuya verificación se hace por otros métodos.
 
